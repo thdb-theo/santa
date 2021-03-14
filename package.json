@@ -9,13 +9,15 @@
     "deploy": "sh deploy.sh"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
+    "core-js": "^3.9.1",
+    "emailjs-com": "^2.6.4",
     "vue": "^2.6.11"
   },
   "devDependencies": {
+    "@types/sendmail": "^1.4.2",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
+    "@vue/cli-service": "^4.5.11",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
