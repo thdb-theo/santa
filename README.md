@@ -1,24 +1,7 @@
-# santa
+# Secret Santa
 
-## Project setup
-```
-npm install
-```
+<img src="/src/assets/santa-claus.svg" alt="" width="200px">
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+A website for arranging secret santa with your friends. Simply go to this [page](https://thdb-theo.github.io/santa/), and add your friends' names and email addresses, as well as your own name and email address. After pressing submit, an email will be sent to each of you with who you will be the secret santa of.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Happy Holidays!
