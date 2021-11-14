@@ -78,7 +78,7 @@ export default {
         };
         try {
           emailjs.send(
-            "service_0b5m4pv",
+            "service_cq6hs6i",
             "template_kjfavbi",
             body,
             "user_oloAALczid6FEeLFDEVng"
